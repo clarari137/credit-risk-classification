@@ -9,9 +9,6 @@ The machine learning process began by dividing the data into the labels and feat
 ## Results
 
 Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all machine learning models.
-https://www.scikit-yb.org/en/latest/api/classifier/classification_report.html
-https://www.statology.org/sklearn-classification-report/\
-http://scikit-learn.org/stable/modules/generated/sklearn.metrics.balanced_accuracy_score.html
 
 * Machine Learning Model 1:
   * Model 1 had a precision score of 100% for the healthy loans and 85% for the high-risk loans. This indicates that of the loans that the model identified as high-risk, 85% actually were. 
